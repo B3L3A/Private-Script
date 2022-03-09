@@ -4,7 +4,7 @@ _G.aimDebug = true --FOV Checker is still wonky - Keep this setting on or you ca
 local settings = {
 	Binds = {
 		Aimbot = "e",
-		Hide = "RightShift" --[=] by default but is not required
+		Hide = "=" --[=] by default but is not required
 	},
 	Aimbot = {
 		FOV = 15, --The smaller the less space to lock on | 15 by default
